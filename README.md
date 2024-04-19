@@ -20,7 +20,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 👇 Hit in your console or terminal to connect with me.
 
 ```bash
-npx anmol
+npx vijaybhagwan
 ```
 
 **👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
@@ -28,20 +28,20 @@ npx anmol
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 ```javascript
-const anmol = {
+const vijaybhagwan = {
   pronouns: "He" | "Him",
-  code: ["Javascript", "Python", "Java", "PHP"],
+  code: ["Javascript", "Node", "Java", "PHP", "AWS"],
   askMeAbout: ["web dev", "tech", "app dev", "photography"],
   technologies: {
     backEnd: {
-      js: ["Node", "Fastify", "Express"],
+      js: ["Node", "Hapi", "Express"],
     },
     mobileApp: {
-      native: ["Android Development"],
+      native: ["Yet to start"],
     },
-    devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-    databases: ["mongo", "MySql", "sqlite"],
-    misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"],
+    devOps: ["AWS", "AliCloud", "Docker🐳", "Route53", "Nginx"],
+    databases: ["Postgres", "mongo", "MySql", "sqlite"],
+    misc: ["SNS", "Socket.IO", "Asterisk", "open-cv", "php"],
   },
   architecture: [
     "Serverless Architecture",
@@ -100,7 +100,7 @@ Sunday                   905 commits         █████░░░░░░�
 📊 **This Week I Spent My Time On**
 
 ```text
-🕑︎ Time Zone: Asia/Dubai
+🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages:
 TypeScript               12 hrs 7 mins       ████████████████░░░░░░░░░   64.13 %
@@ -132,6 +132,6 @@ Last Updated on 19/04/2024 00:23:59 UTC
 
 <!--END_SECTION:waka-->
 
-**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
+**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/vijaybhagwan/waka-readme-stats)**
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
