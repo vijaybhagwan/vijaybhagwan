@@ -1,137 +1,47 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Vijay Ashok Bhagwan! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em> Lead Software Developer at <a href="https://www.xpressbees.com/">BusyBees Logistics Pvt ltd.
-</a><img src="https://www.xpressbees.com/images/whiteLogo.png" width="30"> 
-</em></p>
+<h1 align="center">Hi 👋, I'm Vijay Bhagwan</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol098/)
-![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vabhagwan&label=Profile%20views&color=0e75b6&style=flat" alt="vabhagwan" /> </p>
 
-### 📫 Like to meet me?
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vabhagwan" alt="vabhagwan" /></a> </p>
 
-Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
+<p align="left"> <a href="https://twitter.com/vabhagwan" target="blank"><img src="https://img.shields.io/twitter/follow/vabhagwan?logo=twitter&style=for-the-badge" alt="vabhagwan" /></a> </p>
 
-<a href="https://calendly.com/anmol098/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
+- 🌱 I’m currently learning **Node Js, Postgresql, AWS Services, Design Pattern,**
 
-👇 Hit in your console or terminal to connect with me.
+- 👨‍💻 All of my projects are available at [https://medium.com/@vabhagwan](https://medium.com/@vabhagwan)
 
-```bash
-npx vijaybhagwan
-```
+- 📝 I regularly write articles on [Design Pattern AWS NODE](Design Pattern AWS NODE)
 
-**👆 This command line tool can be found at [npx vijaybhagwan](https://github.com/vijaybhagwan/npx_card)**
+- 💬 Ask me about **Node Js, Postgresql,**
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+- 📫 How to reach me **vabhagwan@gmail.com**
 
-```javascript
-const vijaybhagwan = {
-  pronouns: "He" | "Him",
-  code: ["Javascript", "Node", "Java", "PHP", "AWS"],
-  askMeAbout: ["web dev", "tech", "app dev", "photography"],
-  technologies: {
-    backEnd: {
-      js: ["Node", "Hapi", "Express"],
-    },
-    mobileApp: {
-      native: ["Yet to start"],
-    },
-    devOps: ["AWS", "AliCloud", "Docker🐳", "Route53", "Nginx"],
-    databases: ["Postgres", "mongo", "MySql", "sqlite"],
-    misc: ["SNS", "Socket.IO", "Asterisk", "open-cv", "php"],
-  },
-  architecture: [
-    "Serverless Architecture",
-    "Progressive web applications",
-    "Single page applications",
-  ],
-  currentFocus: "No Focus point at this time",
-  funFact:
-    "There are two ways to write error-free programs; only the third one works",
-};
-```
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/vabhagwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vabhagwan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vabhagwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vabhagwan" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/vabhagwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vabhagwan" height="30" width="40" /></a>
+<a href="https://fb.com/vabhagwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vabhagwan" height="30" width="40" /></a>
+<a href="https://instagram.com/vabhagwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vabhagwan" height="30" width="40" /></a>
+<a href="https://medium.com/@vabhagwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vabhagwan" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/vabhagwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vabhagwan" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/vabhagwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vabhagwan" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/vabhagwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vabhagwan" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://couchdb.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/couchdb/couchdb-original.svg" alt="couchdb" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-<!--START_SECTION:waka-->
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/vabhagwan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vabhagwan" /></a></p><br><br>
 
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C692%20hrs%2014%20mins-blue)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vabhagwan&show_icons=true&locale=en&layout=compact" alt="vabhagwan" /></p>
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1374-blue)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vabhagwan&show_icons=true&locale=en" alt="vabhagwan" /></p>
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.0%20million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data**
-
-> 📦 185.8 kB Used in GitHub's Storage
->
-> 🚫 Not Opted to Hire
->
-> 📜 21 Public Repositories
->
-> 🔑 23 Private Repositories
->
-> **I'm an Early 🐤**
-
-```text
-🌞 Morning                758 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.43 %
-🌆 Daytime                1767 commits        ██████████░░░░░░░░░░░░░░░   40.63 %
-🌃 Evening                1284 commits        ███████░░░░░░░░░░░░░░░░░░   29.52 %
-🌙 Night                  540 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.42 %
-```
-
-📅 **I'm Most Productive on Sunday**
-
-```text
-Monday                   542 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.46 %
-Tuesday                  602 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.84 %
-Wednesday                709 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.30 %
-Thursday                 579 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 %
-Friday                   455 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.46 %
-Saturday                 557 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.81 %
-Sunday                   905 commits         █████░░░░░░░░░░░░░░░░░░░░   20.81 %
-```
-
-📊 **This Week I Spent My Time On**
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages:
-NODE                12 hrs 7 mins       ████████████████░░░░░░░░░   64.13 %
-PHP                   2 hrs 11 mins       ████████████░░░░░░░░░░░░░░░░   40.59 %
-JavaScript               2 hrs 11 mins       ████████████░░░░░░░░░░░░░░   40.54 %
-JSON                     1 hr 4 mins         █████░░░░░░░░░░░░░░░░░░░   05.70 %
-PGSQL                      28 mins             ███████████████░░░░░░░░░   55.51 %
-
-🔥 Editors:
-WebStorm                 16 hrs 30 mins      ██████████████████████░░░   87.25 %
-VS CODE                  2 hrs 19 mins       █████████████████░░░░░░░   68.32 %
-Sublime Text                 4 mins              ██████████░░░░░░░░░░░   60.44 %
-
-💻 Operating System:
-Ubuntu                      18 hrs 54 mins      █████████████████████████   100.00 %
-```
-
-**I Mostly Code in JavaScript**
-
-```text
-JavaScript               32 repos            ███████████░░░░░░░░░░░░░░   45.71 %
-Java                     7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 %
-CSS                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 %
-TypeScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
-Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 %
-```
-
-Last Updated on 19/04/2024 00:23:59 UTC
-
-<!--END_SECTION:waka-->
-
-**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/vijaybhagwan/waka-readme-stats)**
-
-NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vabhagwan&" alt="vabhagwan" /></p>
